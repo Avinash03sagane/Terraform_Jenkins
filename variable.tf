@@ -1,2 +1,0 @@
-# Variable Provider
-variable "region" {}
